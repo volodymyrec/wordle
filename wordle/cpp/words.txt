@@ -1,0 +1,10 @@
+apple
+table
+chair
+grape
+light
+stone
+bread
+spoon
+floor
+smile
